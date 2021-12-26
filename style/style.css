@@ -5,6 +5,12 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: rgb(8, 56, 8);
+    color: rgb(253, 5, 5);
+    background-color: lightgray;
     
+}
+.texto1 {
+    color: rgb(96, 255, 4);
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    text-rendering: 2px rgb(0, 0, 0);
 }
